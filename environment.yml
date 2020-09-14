@@ -3,3 +3,6 @@ channels:
   - anaconda
 dependencies:
   - matplotlib
+  - pip:
+    - turtle
+    - mobilechelonian
