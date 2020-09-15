@@ -1,1 +1,1 @@
-mobilechelonian==0.5
+ipycanvas
