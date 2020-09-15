@@ -1,7 +1,0 @@
-name: example-environment
-channels:
-  - anaconda
-dependencies:
-  - matplotlib
-  - pip:
-    - mobilechelonian
